@@ -4,4 +4,4 @@ jobs:
   log:
     runs-on: ubuntu-latest
     steps:
-      - run: echo "::debug::Thisis a debug log" #デバッグログ有効化時のみ出力
+      - run: echo "::debug::This tracis a debug log" #デバッグログ有効化時のみ出力
